@@ -27,14 +27,37 @@
 	**_d)_** Es una consola de comandos de software libre que incluye compatibilidad con Git
 
 **2.** _El comando "git push" sirve para..._
+
 	**_a)_** Actualizar el repositorio en la nube
 	**_b)_** Añadir los cambios a la stagging area
 	**_c)_** Confirmar los cambios
 	**_d)_** Inicializar un repositorio
 
 **3.** _Github es..._
+
 	**_a)_** un servicio o herramienta que permite mantener actualizados nuestros repositorios Git en la red
 	**_b)_** un lenguaje de programación
 	**_c)_** un lenguaje de marca
 	**_d)_** un comando que sirve para inicializar un repositorio
->>>>>>> 38dbe9ba4678382be8515e6857ea9e7eecbfb2d7
+
+# Preguntas Imposibles de José Miguel Zamorano Rodríguez
+#=================================================
+##Pregunta 1: ¿Qué opción se utiliza para poner en el commit el mensaje directamente a la derecha?
+1. -m
+2. -c
+3. -d
+4. -R
+
+##------------------------------------------------
+##Pregunta 2:¿Para qué sirve git pull?
+1. Actualizar el directorio en tu ordenador
+2. Subir los cambios al repositorio en Github
+3. Borrar tu repositorio de Github
+4. Descargar el repositorio de Github
+
+##------------------------------------------------
+##Pregunta 3:¿Para qué sirve git push?
+1. Subir los cambios al repositorio en Github
+2. Descargar el repositorio de Github
+3. Borrar tu repositorio de Github
+4. Actualizar el directorio en tu ordenador

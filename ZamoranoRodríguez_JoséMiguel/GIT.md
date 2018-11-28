@@ -1,4 +1,4 @@
-#Ejercicio Imposiblde de Git
+#Ejercicio Imposiblde de Git de José Miguel Zamorano
 ##Sigue los siguientes pasos:
 1. Crea un nuevo repositorio llamado exámenGit
 2. Crea el README.txt vacío
