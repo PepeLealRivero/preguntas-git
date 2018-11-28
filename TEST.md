@@ -381,19 +381,22 @@ d)Todas son correctas.
 #________________ALEJANDRO DIAZ SANTOS_________________________
 
 ## PREGUNTA Nº1: ¿Cuál es el significado del comando "echo 'My Project' > README"?
-### a. Crear el archivo My Project y enviarlo a la carpeta README.
+### 
+    a. Crear el archivo My Project y enviarlo a la carpeta README.
     b. Duplicar el archivo My Project, que está en la carpeta README.
 	c. Crear el archivo README y añadirlo al projecto My Project.
     d. Ninguna de las opciones son válidas.
 
 ## PREGUNTA Nº2: Para ver el cambios dentro de un projecto que no está preparado, se usa el comando:
-### a. git lookchanges
+### 
+    a. git lookchanges
 	b. git diff
 	c. git statusnotprepared
 	d. git diffstatus
 
 ## PREGUNTA Nº3: Para cambiar el nombre de un archivo, se tendrá que ejecutar el comando:
-### a. git changename README.md README
+### 
+    a. git changename README.md README
 	b. git name README.md > README
 	c. git mv README.md README
 	d. echo 'README.md' > README
