@@ -112,3 +112,20 @@ El ejercicio consta de los siguientes pasos:
 10. Sube al repositorio todas las modificaciones.
 
 #------|José Antonio llamas Álvarez|------------
+-------------------------------------------------
+#------|Gonzalo Ramos González|-----------------
+
+# A continuación siga las instrucciones para realizar el ejercicio:  
+* Crea un nuevo repositorio en la carpeta que veas conveniente llamado repositorio github e inicializalo.
+* Dentro del repositorio crea un archivo README.md explicando en una línea la descripcción del repositorio.
+* Haz un git status para ver el estado del repositorio. 
+* Añade el archivo README.md a la zona de preparación mediante el comando git add . . 
+* Crea desde el IDE Sublime Text un archivo llamado Index.html que contenga una pequeña lista con los nombres de tus 
+  canciones favoritas y   guardalo en el repositorio.
+* Comprueba de nuevo el estado del repositorio y añade el 
+  nuevo archivo a la zona de preparación. 
+* Por último realiza un commit para los archivos que hemos puesto en la 
+  zona de preparación con anterioridad añadiendo el comentario   "Primeros archivos añadidos a mi repositorio" y 
+  comprueba de nuevo el estado del repositorio.
+
+-----------------------------------------------------------------

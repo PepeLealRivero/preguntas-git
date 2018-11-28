@@ -330,3 +330,26 @@ d) Las respuestas a) y b) son correctas
 
 #------|JosÈ Antonio llamas ¡lvarez|------------
 
+#------|Gonzalo Ramos Gonz√°lez|-----------------
+
+# Para que un archivo pueda ser subido a un repositorio remoto hay que hacer lo siguiente.
+  
+* git push, git status y git oneline. 
+* git add . , git commit y git push. 
+* git globalconfig, touch git y git push. 
+* git pull, git add . y git status.
+
+# El comando git status sirve para:
+  
+* A√±adir un archivo a la zona de preparaci√≥n. 
+* Subir un repositorio al repositorio local.
+* Mostrar el estado actual del repositorio en cuestion.
+* No hace nada.
+
+  # Para ver el historial del repositorio se usa el comando:
+
+* git push
+* git pull 
+* git global config -- 
+* git log --oneline
+-------------------------------------------------
