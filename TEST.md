@@ -462,3 +462,27 @@ d)	Copy
 	b)git copy
 	c)git extract
 	d)Ninguna de las anteriores
+
+# Miguel Lázaro Domínguez #
+
+
+¿Qué comando nos permite ver el estado del repositorio?
+###* git status.
+	* git add
+	* git commit
+	* git log
+
+
+
+¿De que manera no podemos añadir un comentario al commit?
+###* Cuando usamos el comando git add.
+	* Simultaneamente con el commit.
+	* Si queremos que el comentario sea largo abrimos el editor.
+	* Con el comando git commit -m
+
+¿Para qué sirve el comando git log?
+###* Para ver el registro de modificaciones del repositorio.
+	* Para hacer un login a otro repositorio.
+	* Para hacer un login a tu mismo repositorio.
+	* Añade el archivo a otro repositorio.
+# Miguel Lázaro Domínguez
