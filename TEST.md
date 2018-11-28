@@ -18,9 +18,34 @@ d)Git version
 
 ##Pregunta 3
 
-####Â¿Cual es el comando para iniciar un repositorio?
+###Â¿Cual es el comando para iniciar un repositorio?
 ####a)Git init
 b)Git iniciar
 c)Git create
 d)Git hacer
 
+#Alvaro Marquez Mata
+
+##Pregunta 1
+
+###ÂQue comando has de poner al iniciar git por consola para introducir tu nombre de usuario?
+####a)user.name
+b)git config
+c)git init
+d)user.email
+
+##Pregunta 2
+
+###ÂQue comando usamos para ver los cambios que estan preparados para commitearse?
+####a)git status
+b)git log
+c)git log -p
+d)git init
+
+##Pregunta 3
+
+###Â¿Existe algun comando que sirva para lo mismo que git status pero de manera mas precisa?
+####a)SÃ, git diff
+b)No
+c)SÃ­, git log -p
+d)Ninguna de las anteriores es correcta
