@@ -158,6 +158,7 @@ Ejercicio práctico:
 
 #Pablo Rodríguez Roldán
 ###Clona un repositorio online, crea un archivo llamado: “Sulfuro.txt”, modifícalo, confirma los cambios y súbelo al repositorio online.
+#Pablo Rodríguez Roldán
 #-----------------Miguel Lázaro Domínguez------------------------#
 ###Clona el repositorio de alguno de tus compañeros. Haz una serie de cambios en el ya sea añadir, modificar o eliminar archivos o ficheros. Luego sube esos cambios al repositorio remoto.
 #-----------------Miguel Lázaro Domínguez------------------------#
