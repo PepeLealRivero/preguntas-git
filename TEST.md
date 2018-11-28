@@ -421,3 +421,25 @@ b)Existen varios sistemas de control de versiones.
 c)Hace un Registro histórico de acciones realizadas con cada elemento.
 d)Todas son ciertas.
 # --------Esperanza Escacena Morcillo----------------------
+
+# Juan Manuel Gracia Pardal
+
+### ¿Qué pasaría si en un repositorio grupal en el que estas como miembro, ejecutaras el comando push para subir tus cambios, sin antes ejecutar el comando pull?
+a) Habra un conflicto --> verdadera
+b)	Se suben tus cambios sin problemas.
+c)	Borras los últimos cambios y sube los tuyos.
+d)	Simplemente actualiza automáticamente al detectar el error
+
+### ¿Cuál es el comando para confirmar cambios?
+a)	Git Commit --> verdadera
+b)	Git add 
+c)	Git status
+d)	Ls – l
+
+###¿con que comando editarias un documento .txt desde la consola de comander?
+a)	Vi --> verdad
+b)	Touch
+c)	Mkdir
+d)	Copy
+
+
