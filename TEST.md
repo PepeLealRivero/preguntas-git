@@ -442,4 +442,23 @@ b)	Touch
 c)	Mkdir
 d)	Copy
 
+# Pablo Rodriguez Roldan
 
+### ¿Con que comando se hace commit a los cambios aplicados?
+	a) git commit –m “Commit message”
+	b)git commit –write
+	c)git commit –modify
+	d)Ninguna de las anteriores
+
+### ¿Con que comando se coge el repositorio con todos los cambios realizados?
+	a) git pull
+	b)git push
+	c)git add
+	d)Ninguna de las anteriores
+
+
+### ¿Qué comando se usa para clonar un repositorio online?
+	a)git clone
+	b)git copy
+	c)git extract
+	d)Ninguna de las anteriores

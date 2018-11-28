@@ -155,3 +155,6 @@ Ejercicio práctico:
 ###8)Registra los cambios en el readme.txt
 ###9)Confirma todos los cambios
 # --------Esperanza Escacena Morcillo----------------------
+
+#Pablo Rodríguez Roldán
+###Clona un repositorio online, crea un archivo llamado: “Sulfuro.txt”, modifícalo, confirma los cambios y súbelo al repositorio online.
