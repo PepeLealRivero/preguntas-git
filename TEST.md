@@ -1,26 +1,17 @@
-#Juan Antonio Lago
+#¿Cual es el comando para comprobrar el estado del repositorio?
+-git status(respuesta correcta).
+-git state.
+-git statum.
+-status.
 
-##Pregunta 1
+#¿Que es git log?
+-Nos permite obtener un registro de confirmaciones(respuesta correcta).
+-Nos permite obtener ayuda.
+-No es un comando de git.
+-Nos permite obtener un regitro de confirmaciones pero no el autor de las mismas.
 
-###¿Como colocamos un comentario además de guardar los cambios?
-####a)Git commit -m "Comentario"
-b)Git add . "Comentario"
-c)Git commit
-d)Git save "Comentario"
-
-##Pregunta 2
-
-###¿Como miramos los cambios que hemos ido realizando en el repositorio que tenemos?
-####a)Git log
-b)Git init
-c)Git status
-d)Git version
-
-##Pregunta 3
-
-####¿Cual es el comando para iniciar un repositorio?
-####a)Git init
-b)Git iniciar
-c)Git create
-d)Git hacer
-
+#¿Cual de estas fases no es una fase en git?
+-Starting area(respuesta correcta).
+-Working directory.
+-Staging area.
+-Git repository.
