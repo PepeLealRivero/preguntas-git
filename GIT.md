@@ -84,3 +84,15 @@ El ejercicio consta de los siguientes pasos:
 
 #------|Alberto Santiago Rodríguez|------------
 
+
+#------|Lucas Amado Santos|------------ 
+
+##Sigue los siguientes pasos:
+
+##1) Crear el repositorio ejercicioExamen en gitHub (incluyendo README.md)
+##2) Añadir examen.txt y commitearlo
+##3) Escribir dentro de examen.txt  "parrado1"  y comitearlo. Luego repite el mismo proceso con los comandos 
+##4) Añade al fichero README.md una descripción del repositorio
+
+#------|Lucas Amado Santos|------------
+

@@ -272,4 +272,37 @@ git push
 #------|Alberto Santiago Rodríguez|------------
 
 
+#------|Lucas Amado Santos|------------
+## Preguntas Test
+
+###Cuando vayamos a empezar a trabajar con un repositorio que ya teníamos creado en GitHub:
+~~~~
+a) Usamos el comando git push para actualizarlo
+b) Simplemente empezamos a trabajar
+c) Usamos el comando git pull antes para actualizarlo
+d) Todas las opciones son correctas
+
+~~~~
+
+###El comando para soluiconar un conflicto es:
+~~~~
+a) git --diff
+b) git push
+c) git commit 
+d) git add .
+~~~~	
+
+###Si quiero crear crear un repositorio:
+~~~~
+a) Puedo hacerlo directamente en GitHub
+b) Puedo crearlo usando git init.
+c) Solamente puedo hacerlo usando GitHub
+d) Las respuestas a) y b) son correctas 
+
+~~~~
+
+
+#------|Lucas Amado Santos|------------
+
+
 
