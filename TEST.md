@@ -401,3 +401,23 @@ d)Todas son correctas.
 	c. git mv README.md README
 	d. echo 'README.md' > README
 	
+# --------Esperanza Escacena Morcillo----------------------
+
+###No son tipos de sistema de control de versiones:
+a)Exclusivos
+b)Colaborativos
+c)Unitarios
+d)Ninguno de los anteriores,
+
+###¿Qué comando hay que utilizar para pasar el archivo al staging area?
+a)git add
+b)git commit
+c)git init
+d)git staging -a
+
+###Del sistema de control de versiones podemos decir que:
+a)gestión de los cambios que se realiza sobre los elementos de algún producto o configuración del mismo.
+b)Existen varios sistemas de control de versiones.
+c)Hace un Registro histórico de acciones realizadas con cada elemento.
+d)Todas son ciertas.
+# --------Esperanza Escacena Morcillo----------------------

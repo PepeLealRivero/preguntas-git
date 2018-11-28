@@ -140,3 +140,18 @@ Ejercicio  práctico GIT:
 ##-Elimina el README.md.
 ##-Confirma los cambios finales.
 #-----------------Antonio Duran Falero------------------------#
+
+
+# --------Esperanza Escacena Morcillo----------------------
+
+Ejercicio práctico:
+###1)Crea un directorio llamado proyectoExamenGit
+###2)Añade un fichero readme.md
+###3)Inicializa el directorio y ponlo en el staging area
+###4)Haz el 1º commit
+###5)Crea un archivo.txt por consola llamado textoExamen.txt
+###6)Edita el archivo.txt por consola y añade una frase.
+###7)Confirma cambios.
+###8)Registra los cambios en el readme.txt
+###9)Confirma todos los cambios
+# --------Esperanza Escacena Morcillo----------------------
