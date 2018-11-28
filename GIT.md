@@ -96,3 +96,19 @@ El ejercicio consta de los siguientes pasos:
 
 #------|Lucas Amado Santos|------------
 
+#------|José Antonio llamas Álvarez|------------
+
+##Sigue los siguientes pasos
+
+1. Inicializa un nuevo repositorio, llamado ejemplo7, creando antes la carpeta.
+2. Añade un fichero indice.md, en formato markdown, creado con el editor de texto que prefieras.
+3. Añadelo a la staging area.
+4. Añade un nuevo commit, con el mensaje “Primer commit”.
+5. Crea tres archivos que se llamen contenido1.txt, contenido2.txt y contenido3.txt (vacíos).
+6. Añádelos a la staging area.
+7. Edita el archivo indice.md y añade tres entradas para los tres archivos .txt.
+8. Añádelo todo a la staging area.
+9. Haz un commit con el mensaje "Cambios realizados"
+10. Sube al repositorio todas las modificaciones.
+
+#------|José Antonio llamas Álvarez|------------

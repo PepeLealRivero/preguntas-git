@@ -305,4 +305,28 @@ d) Las respuestas a) y b) son correctas
 #------|Lucas Amado Santos|------------
 
 
+#------|José Antonio llamas Álvarez|------------
+
+# Lo primero que deberás hacer cuando instales Git es establecer:
+
+1. Nombre de usuario y dirección de correo electrónico.
+2. Nombre de usuario y contraseña.
+3. Correo electrónico y contraseña.
+4. Ninguna de las anteriores.
+
+# El orden correcto de acciones sería:
+
+1. Git pull, Git add, Git commit, Git push
+2. Git push, Git add, Git commit, Git pull
+3. Git pull, Git commit, Git add, Git push
+4. Ninguna de las anteriores
+
+# El archivo .gitignore
+
+1. Contiene los archivos y carpetas que se van a ignorar al añadir al repositorio.
+2. Hace que se ignoren los cambios que se hagan.
+3. Permite ignorar los archivos de la carpeta en la que está el .gitignore
+4. Ninguna es correcta.
+
+#------|José Antonio llamas Álvarez|------------
 
