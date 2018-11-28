@@ -40,3 +40,6 @@ El ejercicio consta de los siguientes pasos:
 
 #Ejercicio Imposiblde de Git de Jesús Ceacero Jimeno
 ## Elabora un repositorio en git y mete a tu compañero en él, debéis efectuar 3 cambios en el los 2 uno de tras de otro respetando los datos cambiados por el compañero y documentando vuestros cambios.
+
+#Ejercicio Imposiblde de Git de Manuel Lovillo López
+## Dime los comandos básicos para la creación, clonación y subida a git de un repositorio.

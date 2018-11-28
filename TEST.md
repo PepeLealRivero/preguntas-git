@@ -155,3 +155,26 @@ d)Ninguna de las anteriores es correcta
 ...b)  Copy
 ...c)  Add.
 ---d)  C
+
+# Preguntas Imposibles de Manuel Lovillo López
+#=================================================
+
+1-	¿Cómo se añade un fichero?
+
+a-git push <filename>
+b-git pull
+c-git add 
+d-git rm
+
+2-	¿Para qué sirve el comando de git remote add orgin <server>?
+
+a-conecta un repositorio local con otro repositorio remoto.
+b-conecta un repositorio remoto con uno local.
+c-cambia el repositorio local a uno remoto.
+d-cambia el repositorio remoto a uno local.
+
+3-	¿Cuál es el comando para clonar un repositorio local?
+a-git clone username@host/path/to/repository
+b-git clone /path/to/repository
+c-git rm
+d-git commit -m
