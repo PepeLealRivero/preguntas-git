@@ -164,3 +164,11 @@ Ejercicio práctico:
 #-----------------Miguel Lázaro Domínguez------------------------#
 #---------Pablo Silva López-------------
 ###Crea un repositorio usando tu cuenta de Github, llamado ejercicioPropuesto. Crea dentro una carpeta y llamala como quieras, después crea dentro un archivo leeme.txt, crea otra carpeta y llamala como quieras, finalmente copia el archivo de texto creado antes, editalo y sube los cambios a Github.
+
+# --------Daniel Leiva Nieto----------------------
+
+###1)Crea un directorio local y llamalo como quieras
+###2)Añade un fichero con una extension .md
+###3)Edita el nuevo fichero creado y ponle el texto que desees
+###4)Haz el 1º commit y pon como mensaje "Primer commit"
+# --------Daniel Leiva Nieto----------------------

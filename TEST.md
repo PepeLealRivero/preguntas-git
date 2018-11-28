@@ -512,4 +512,26 @@ d)	Copy
 3. git log
 4. git clone
 
+# Daniel Leiva Nieto
+
+### ¿Qué es el staging area?
+
+1. El area de trabajo
+2. El area de preparacion(True)
+3. Un comando para crear archivos
+4. El comando para confimar cambios
+
+### ¿Para que sirve git pull?
+
+1. Para actualizar los datos de un repositorio(True)
+2. Para subir los ultimos cambios al repositorio
+3. Para clonar un repositorio
+4. Para crear un fichero
+
+### ¿Cúal de estos no es un comando de git?
+
+1. Todos los demas son correctos(True)
+2. git add
+3. git log
+4. git clone
 
