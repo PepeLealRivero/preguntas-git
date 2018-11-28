@@ -44,7 +44,7 @@ El ejercicio consta de los siguientes pasos:
 #Ejercicio Imposiblde de Git de Manuel Lovillo López
 ## Dime los comandos básicos para la creación, clonación y subida a git de un repositorio.
 
-#VÍCTOR MIRANDA ALCÁNTARA
+# VÍCTOR MIRANDA ALCÁNTARA
 ## EJERCICIO DE GIT
 ### EJERCICIO 1
 1. Recuerdas el chuletero de git que hicimos de con Luismi, descargalo.
@@ -53,3 +53,19 @@ El ejercicio consta de los siguientes pasos:
 4. Añade un fichero README.md donde mas adelante vas a realizar una breve explicación sobre este.
 5. Al repositorio creado añade el chuletero git.
 6. Subelo a GitHub.
+
+# ------------------------------------------|Jose Manuel Bargueño López|----------------------------------------
+
+## Ejercicio Git
+
+#### 1 Crea un repositorio en github llamado "test-git".
+#### 2 Clónalo en tu PC
+#### 3 Sube un ejercicio de Lenguajes de marcas del tema 3 donde hallamos usado fuentes en el css
+#### 4 Al tener archivos .ttf y .otf, no queremos que se suban asi que añadelo a un .gitignore
+#### 5 Documenta esto último para el que se vaya a descargar el repositorio de la web sepa donde tiene que añadir las fuente.
+####   y las lineas que tiene que cambiar en el css.
+#### 6 Sube todos estos cambios para que sea visible en el repositorio de Github
+
+# ------------------------------------------|Jose Manuel Bargueño López|----------------------------------------
+
+

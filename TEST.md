@@ -179,12 +179,12 @@ b-git clone /path/to/repository
 c-git rm
 d-git commit -m
 
-# PREGUNTASVÍCTOR MIRANDA ALCÁNTARA
+# PREGUNTAS VÍCTOR MIRANDA ALCÁNTARA
 # =================================================
 
-##EJERCICIOS TIPOS TEST
+## EJERCICIOS TIPOS TEST
 
-###PREGUNTA 1
+### PREGUNTA 1
 Como podemos revisar el estado de tus archivos en git.
 ~~~~
 a) git status
@@ -193,7 +193,7 @@ c) git estatus
 d) git commit
 ~~~~
 
-###PREGUNTA 2
+### PREGUNTA 2
 Como podemos mirar el historial de confirmaciones.
 ~~~~
 a) git log
@@ -202,7 +202,7 @@ c) git init
 d) git history
 ~~~~
 
-###PREGUNTA 3
+### PREGUNTA 3
 Con que comando añadimos el contenido al área de preparación (staging area)
 ~~~~
 a) git push
@@ -211,3 +211,34 @@ c) git diff
 d) git commit
 ~~~~
 # =================================================
+
+# ------------------------------------------|Jose Manuel Bargueño López|----------------------------------------
+
+## Preguntas test
+
+
+### ¿Se puede hacer un commit sin ningún "git add."?
+~~~
+Si.
+No. (Respuesta correcta)
+Si pero puede causar errores.
+Si, aunque si no lo haces justo antes puedes perder cambios hechos.
+~~~
+
+### ¿Cómo se clona un repositorio?
+~~~
+clone [link]
+[link] clone
+git [link] clone
+git clone [link]
+~~~
+
+### ¿Que extensión se usa para no incluir ciertos tipos de archivos en las actualizaciones de los repositorios?
+~~~
+.gitignore
+.md
+.readme
+.html
+~~~
+
+# ------------------------------------------|Jose Manuel Bargueño López|----------------------------------------
