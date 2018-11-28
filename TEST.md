@@ -463,26 +463,53 @@ d)	Copy
 	c)git extract
 	d)Ninguna de las anteriores
 
-# Miguel Lázaro Domínguez #
+# Miguel Lázaro Domínguez 
 
 
-¿Qué comando nos permite ver el estado del repositorio?
-###a) git status.
-	b) git add
-	c) git commit
-	d) git log
+###¿Qué comando nos permite ver el estado del repositorio?
+
+1. git status.
+2. git add
+3. git commit
+4. git log
 
 
 
-¿De que manera no podemos añadir un comentario al commit?
-###a) Cuando usamos el comando git add.
-	b) Simultaneamente con el commit.
-	c) Si queremos que el comentario sea largo abrimos el editor.
-	d) Con el comando git commit -m
+### ¿De que manera no podemos añadir un comentario al commit?
+1. Cuando usamos el comando git add.
+2. Simultaneamente con el commit.
+3. Si queremos que el comentario sea largo abrimos el editor.
+4. Con el comando git commit -m
 
-¿Para qué sirve el comando git log?
-###a) Para ver el registro de modificaciones del repositorio.
-	b) Para hacer un login a otro repositorio.
-	c) Para hacer un login a tu mismo repositorio.
-	d) Añade el archivo a otro repositorio.
-# Miguel Lázaro Domínguez
+###¿Para qué sirve el comando git log?
+1. Para ver el registro de modificaciones del repositorio.
+2. Para hacer un login a otro repositorio.
+3.  Para hacer un login a tu mismo repositorio.
+4.  Añade el archivo a otro repositorio.
+
+
+
+# Pablo Silva Lopez
+
+###¿Qué comando es necesario para crear un repositorio?
+
+1. git status
+2. git add
+3. git init
+4. git config
+
+### ¿Cuál es el comando utilizado para listar los cambios (commits) que han producido en el repositorio?
+
+1. git init
+2. git status
+3. git tag
+4. git log
+
+###Si quieres obtener una copia de un repositorio Git existente en GitHub, usamos:
+
+1. commit
+2. git add
+3. git log
+4. git clone
+
+
