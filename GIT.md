@@ -21,3 +21,18 @@ Actualiza el fichero en GitHub.
 5. Haz un commit con un mensaje adecuado
 6. Añade un mensaje en markdown que diga en que consiste este repositorio
 7. Haz un git pull
+
+##Ejercicio Sobre Git DANIEL SANTANO FERNÁNDEZ
+El ejercicio consta de los siguientes pasos:
+* Crea un repositorio en tu cuenta de git hub
+* Como siempre añadiremos un fichero README.md si no lo has añadido desde git hub
+* Ahora haremos un pull para poder modificar el repositorio en local
+* Crea un nuevo directorio, que se llame Ejemplos
+* Crea un nuevo fichero y llamalo prueba_a.txt
+* Añade todo a la staging area
+* Ahora procederemos a hacer el primer commit con el mensaje “Primer Commit prueba_a”.
+* A continuación en en el fichero anterior mente creado prueba_a.txt escribiremos un parrafo sobre una afición que tengamos, y confirma los cambios, el mensaje del commit debe ser apropiado (modificación prueba_a podria ser un comentario valido)
+* Crea un nuevo fichero y llamalo segunda_parte.txt y ahora en este escribiras un parrafo y confirmaras los cambios, deberas escribir dos parrafos más y confirma los cambios en todo momento igual que con el fichero de prueba_a.txt
+* Edita el fichero README.md, añadiendo información sobre el repositorio en formato markdown
+* Confirma los cambios finales
+* Sube el repositorio a tu cuenta de git hub con git push y luego confirma que todos los cambios se hayan guardado en tu cuenta de git hub

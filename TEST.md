@@ -118,3 +118,20 @@ d)Ninguna de las anteriores es correcta
 2. Descargar el repositorio de Github
 3. Borrar tu repositorio de Github
 4. Actualizar el directorio en tu ordenador
+
+##Preguntas Tipo Test DANIEL SANTANO FERNÁNDEZ
+1. ¿Que hace el comando git add .?
+...a) Enseña el estado del repositorio
+...b) Enseña los archivos que hay en el repositorio
+...c) Añade archivos al repositorio 
+...d) Añade todos los cambios hechos al repositorio -Correcta
+2. ¿Cual es el comando para cer el historial del repositorio?
+...a) git pull
+...b) git commit 
+...c) git log -Correcta
+...d) git status
+3. ¿Que hace el comando git diff?
+...a) Muestra los cambios entre commits, entre un commit y el directorio de trabajo -Correcta
+...b) Enseña todos los cambios hechos hoy al repositorio
+...c) Te permite modificar la extensión de archivos
+...d) Permite modificar archivos desde la consola
