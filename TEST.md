@@ -353,3 +353,28 @@ d) Las respuestas a) y b) son correctas
 * git global config -- 
 * git log --oneline
 -------------------------------------------------
+
+#----------------Antonio Durán Falero--------------------# 
+
+##Después del comando git add. Que comando debemos ejecutar:
+a) git commit.
+b) git push
+c) git pull 
+d) git 
+
+
+##Git según su almacenamiento de código está clasificado como:
+a) Distribuidos.
+b) Centralizados
+c) Reflejados
+d) Compartidos
+
+##Señales cuales son ventajas de usar control de versiones.
+a) Tener un control exacto sobre cuál es la última versión del código, y quién y cuándo la ha cargado
+b) Poder comparar versiones, viendo cuales han sido los cambios realizados
+c) Regresar atrás (a una versión anterior) cuando lo que hemos desarrollado no nos ha dado los resultados esperados.
+d)Todas son correctas.
+
+
+#-----------------Antonio Duran Falero------------------------#
+

@@ -129,3 +129,14 @@ El ejercicio consta de los siguientes pasos:
   comprueba de nuevo el estado del repositorio.
 
 -----------------------------------------------------------------
+#-----------------Antonio Duran Falero------------------------#
+Ejercicio  práctico GIT:
+##-Inicializa un nuevo repositorio, llamado ejercicio-git.
+##-Añade un fichero README.md.
+##-Añadelo a la staging área.
+##-Añade un commit, con el mensaje “Primer commit”
+##-Crea un nuevo directorios que se llame textos.
+##-Dentro de ese directorio crea un fichero texto.txt
+##-Elimina el README.md.
+##-Confirma los cambios finales.
+#-----------------Antonio Duran Falero------------------------#
