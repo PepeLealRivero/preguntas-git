@@ -212,7 +212,7 @@ d) git commit
 ~~~~
 # =================================================
 
-# ------------------------------------------|Jose Manuel Bargueño López|----------------------------------------
+#------|Jose Manuel Bargueño López|------------
 
 ## Preguntas test
 
@@ -241,4 +241,35 @@ git clone [link]
 .html
 ~~~
 
-# ------------------------------------------|Jose Manuel Bargueño López|----------------------------------------
+#------|Jose Manuel Bargueño López|------------
+
+#------|Alberto Santiago Rodríguez|------------
+## Preguntas Test
+
+###¿Qué comando se utiliza para iniciar un repositorio?
+~~~~
+git init
+git start
+git add
+git pull
+~~~~
+
+###¿Qué comando se utiliza para subir los cambios realizados en un repositorio?
+~~~~
+git push
+git pull
+git commit -m
+git diff
+~~~~
+
+###¿Qué comando se utiliza para guardar los cambios de un archivo?
+~~~~
+git add
+git commit -m "mensaje"
+git commit -m
+git push
+~~~~
+#------|Alberto Santiago Rodríguez|------------
+
+
+

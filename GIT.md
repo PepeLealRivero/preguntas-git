@@ -54,7 +54,7 @@ El ejercicio consta de los siguientes pasos:
 5. Al repositorio creado añade el chuletero git.
 6. Subelo a GitHub.
 
-# ------------------------------------------|Jose Manuel Bargueño López|----------------------------------------
+#------|Jose Manuel Bargueño López|------------
 
 ## Ejercicio Git
 
@@ -66,6 +66,21 @@ El ejercicio consta de los siguientes pasos:
 ####   y las lineas que tiene que cambiar en el css.
 #### 6 Sube todos estos cambios para que sea visible en el repositorio de Github
 
-# ------------------------------------------|Jose Manuel Bargueño López|----------------------------------------
+#------|Jose Manuel Bargueño López|------------
 
+#------|Alberto Santiago Rodríguez|------------
+
+##Sigue los siguientes pasos:
+
+####Crea un directorio(donde tú quieras) llamado ejercicioExamen
+####En ese directorio, inicializa un nuevo repositorio, llamado examen.
+####Añade un fichero README.md (vacío)
+####Añadelo a la staging area.
+####Crea un nuevo directorio, que se llame actividad1
+####Dentro de ese directorio, crea un fichero que se llame contenido.txt (vacío).
+####Añade un nuevo commit, con el mensaje “commit inicial”.
+####Añade el enunciado al fichero contenido.txt, y confirma los cambios con un mensaje de commit adecuado. 
+####Confirma los cambios finales.
+
+#------|Alberto Santiago Rodríguez|------------
 
