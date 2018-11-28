@@ -36,3 +36,7 @@ El ejercicio consta de los siguientes pasos:
 * Edita el fichero README.md, añadiendo información sobre el repositorio en formato markdown
 * Confirma los cambios finales
 * Sube el repositorio a tu cuenta de git hub con git push y luego confirma que todos los cambios se hayan guardado en tu cuenta de git hub
+
+
+#Ejercicio Imposiblde de Git de Jesús Ceacero Jimeno
+## Elabora un repositorio en git y mete a tu compañero en él, debéis efectuar 3 cambios en el los 2 uno de tras de otro respetando los datos cambiados por el compañero y documentando vuestros cambios.

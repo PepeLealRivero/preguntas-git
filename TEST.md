@@ -134,3 +134,24 @@ d)Ninguna de las anteriores es correcta
 ...b) Enseña todos los cambios hechos hoy al repositorio
 ...c) Te permite modificar la extensión de archivos
 ...d) Permite modificar archivos desde la consola
+
+
+# Preguntas Imposibles de Jesús Ceacero Jimeno
+#=================================================
+## Pregunta 1:  ¿Con que comando vemos el estado de nuestros comit?
+...a)  status -  verdadera
+...b)  push
+...c)  commit
+---d)  add.
+
+## Pregunta2:
+...a)  Touch – verdades
+...b)  Mkdir
+...c)  Ls
+---d)  Cd
+
+## Pregunta 3
+...a)  Clone – verdadero
+...b)  Copy
+...c)  Add.
+---d)  C
