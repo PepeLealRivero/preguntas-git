@@ -178,3 +178,36 @@ a-git clone username@host/path/to/repository
 b-git clone /path/to/repository
 c-git rm
 d-git commit -m
+
+# PREGUNTASVÍCTOR MIRANDA ALCÁNTARA
+# =================================================
+
+##EJERCICIOS TIPOS TEST
+
+###PREGUNTA 1
+Como podemos revisar el estado de tus archivos en git.
+~~~~
+a) git status
+b) git add .
+c) git estatus
+d) git commit
+~~~~
+
+###PREGUNTA 2
+Como podemos mirar el historial de confirmaciones.
+~~~~
+a) git log
+b) git log -m 
+c) git init
+d) git history
+~~~~
+
+###PREGUNTA 3
+Con que comando añadimos el contenido al área de preparación (staging area)
+~~~~
+a) git push
+b) git add 
+c) git diff
+d) git commit
+~~~~
+# =================================================

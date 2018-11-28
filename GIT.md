@@ -43,3 +43,13 @@ El ejercicio consta de los siguientes pasos:
 
 #Ejercicio Imposiblde de Git de Manuel Lovillo López
 ## Dime los comandos básicos para la creación, clonación y subida a git de un repositorio.
+
+#VÍCTOR MIRANDA ALCÁNTARA
+## EJERCICIO DE GIT
+### EJERCICIO 1
+1. Recuerdas el chuletero de git que hicimos de con Luismi, descargalo.
+2. Crea un repositorio con GitHub llamado "Chuletas de git".
+3. Clonalo en el escritorio.
+4. Añade un fichero README.md donde mas adelante vas a realizar una breve explicación sobre este.
+5. Al repositorio creado añade el chuletero git.
+6. Subelo a GitHub.
